@@ -12,6 +12,7 @@ This is a list of references that I recommend. It is NEVER, EVER going to be com
     - Help! I have a manager! (nice zine about how to use your manager) - https://jvns.ca/blog/2018/09/22/new-zine--help--i-have-a-manager/
     - What's a senior engineer's job? https://jvns.ca/blog/senior-engineer/
 - Defining a distinguished engineer - https://blog.jessfraz.com/post/defining-a-distinguished-engineer/
+- Things I learnt the hard way - https://blog.juliobiason.net/thoughts/things-i-learnt-the-hard-way/ - about workflow/development principles/behavior
 - The ten commandments of Egoless Programming - https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/
 - The Manager's Path - https://www.amazon.com/Managers-Path-Leaders-Navigating-Growth/dp/1491973897 - even if you don't want to be a manager, the first few chapters are useful for e.g. how to have a useful relationship with your manager and how to welcome new engineers to your team.
 - If you're at the beginning of your career, Apprenticeship Patterns (https://www.amazon.com/Apprenticeship-Patterns-Guidance-Aspiring-Craftsman/dp/0596518382) for how to go about learning, growing and sustaining your life as an engineer.
