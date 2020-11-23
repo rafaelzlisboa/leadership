@@ -11,13 +11,16 @@
 - Don't be the coder in the corner - try to help everyone understand what you're doing (and what you're not doing) and why.
 - Don't make big decisions alone - always doubt yourself, present your train of thought, talk about the options you considered and why you think that's the best thing to be done at the moment. And hear their answer.
 - Be aware of your psychological biases (see the section "Mature engineers are aware of cognitive biases" at [kitchensoap's On being a Senior Engineer](https://www.kitchensoap.com/2012/10/25/on-being-a-senior-engineer/)).
-- Take the initiative to change things you wish were done differently, then proactively seek feedback ("you are excrement, you can change yourself into gold" - Alexandro Jodorowsky's The Holy Mountain). Proactively seeking feedback when you do this is important to understand if what you've done was really better or not!
-- Don't do things you don't like when others do, do things you'd like others to do. Fix that flaky alert, raise the subject about the elephant in the room on your team, do the right thing®. We all know what is is, but sometimes we'll avoid doing it. It's awesome when we do - people come thank us and say nice things.
+- Take the initiative to change things you wish were done differently.
+- Don't do things you don't like when others do, do things you'd like others to do. Fix that flaky alert, raise the subject about the elephant in the room on your team, do the right thing® (we all know what is is, but sometimes we'll avoid doing it). It's awesome when we do - people come thank us and say nice things.
 - Praise good behavior publicly, criticize bad behavior privately - it's ok if you prefer to talk to someone else before doing that to practice how the message will go through. It's better than doing nothing.
 - Don't let your ego take over your work; your work can change the world; your ego not so much. Practice [egoless programming](https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/).
 - Expose your ignorance; don't be afraid to make it clear to others what you don't understand. Try to get good at asking for help. Julia Evans has a pretty good blog post about it: https://jvns.ca/blog/good-questions/
-- Give yourself the opportunity to fail - it's often the only way to learn new things. Don't worry, be crappy! Don't be afraid to pick a task you have no idea how to execute.
+- Give yourself the opportunity to fail - it's often the only way to learn new things. Don't worry, be crappy! Don't be afraid to pick a task you have no idea how to execute. ("you are excrement, but you can change yourself into gold" - Alexandro Jodorowsky's The Holy Mountain)
+- Ask for feedback often, preferrably about specific things. Ask for feedback naturally, and you shall naturally receive feedback.
+- When feeling you're not doing well, ask for feedback about your insecurities and uncertainties. Is there something you need to change? Turn it into a problem you need to solve, then put your energy towards solving it.
 - Question why you're doing what you're doing - is it the best use of your time? Is it the best thing for the business? Not every problem needs to be solved now, or even be solved at all - solve the right ones at the right time. Leave tomorrow's problems for tomorrow.
+- You will get good at things you invest time on. Presenting ideas, writing, prioritizing, making decisions etc, these are all important skills. Don't leave them aside just because they're "not coding". They will make you a better engineer.
 - Be responsible for the code you ship: monitor stuff, avoid shipping and leaving. Validate no error rate has increased, no big latency hits have happened.
 - Always be the first to review your code (it's likely the best review it'll get).
 - Write good commit messages (pull request descriptions also help, but they tend to get lost over time).
