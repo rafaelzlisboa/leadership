@@ -23,5 +23,5 @@
 - You will get good at things you invest time on. Presenting ideas, writing, prioritizing, making decisions etc, these are all important skills. Don't leave them aside just because they're "not coding". They will make you a better engineer.
 - Be responsible for the code you ship: monitor stuff, avoid shipping and leaving. Validate no error rate has increased, no big latency hits have happened.
 - Always be the first to review your code (it's likely the best review it'll get).
-- Write good commit messages (pull request descriptions also help, but they tend to get lost over time).
+- Write [good commit messages](https://thoughtbot.com/blog/5-useful-tips-for-a-better-commit-message) (pull request descriptions also help, but they tend to get lost over time).
 - Embrace chaos - humans are chaotic beings, and teams are made of humans. As engineers we tend to like well-designed things, but every company is either attempting to come up with the right organization (which is an iterative process that's never perfect and never over) or thinks they've come up with the right organization (which is very likely to be a wrong assumption, resulting in a suboptimal communication structure). People and interactions will always be more important than processes and tools.
